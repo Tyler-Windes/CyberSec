@@ -48,4 +48,3 @@ The most relevant through-line is not only cybersecurity itself, but the underly
 - ai-assisted-workflow-analysis-demo
 - automated-elk-stack-deployment
 - red-vs-blue-attack-analysis
-- offensive-defensive-security-presentation
